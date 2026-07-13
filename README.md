@@ -45,3 +45,6 @@ required export files in `data/` before running the notebooks.
 
 - Figures produced by the notebooks are written to `img/`.
 - Result data frames are written to `df/`.
+
+## Citation
+M. de Bruin-Hoegée, Python code for Icarus, (2026). https://doi.org/10.5281/zenodo.21345942.
