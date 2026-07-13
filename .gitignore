@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+%LOCALAPPDATA%/Microsoft/UEV/%COMPUTERNAME%/WindowsCommandPrompt/LKG.meta
+%LOCALAPPDATA%/Microsoft/UEV/%COMPUTERNAME%/WindowsCommandPrompt/Current/WindowsCommandPrompt.pkgx
+%LOCALAPPDATA%/Microsoft/UEV/%COMPUTERNAME%/WindowsCommandPrompt/Initial/WindowsCommandPrompt.pkgx
+
+img/*
+!img/.gitkeep
+df/*
+!df/.gitkeep
